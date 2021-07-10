@@ -8,7 +8,7 @@
     <link href="{{asset('admin_assets/vendor/bootstrap-4.1/bootstrap.min.css')}}" rel="stylesheet" media="all">
     <link href="{{asset('admin_assets/css/theme.css')}}" rel="stylesheet" media="all">
 </head>
-<body class="animsition">
+<body>
     <div class="page-wrapper">
         <div class="page-content--bge5">
             <div class="container">

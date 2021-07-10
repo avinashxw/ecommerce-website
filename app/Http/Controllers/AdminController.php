@@ -34,4 +34,8 @@ class AdminController extends Controller
             return redirect('admin');
         }
     }
+
+    public function dashboard() {
+        return view('admin.dashboard');
+    }
 }
