@@ -11,3 +11,4 @@ MySQL 5.x
 ## Screenshots
 
 <img src="/public/screenshots/login-as-administrator.png" title="Login as administrator">
+<img src="/public/screenshots/layout-setup-dashboard.png" title="Dashboard layout">
