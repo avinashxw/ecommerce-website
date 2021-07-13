@@ -15,7 +15,8 @@
                 <div class="login-wrap">
                     <div class="login-content">
                         <div class="login-logo">
-                            Login as administrator
+                            Login as administrator<br/>
+                            {{Config::get('constants.SITE_NAME')}}
                         </div>
                         <div class="login-form">
                             <div class="alert alert-danger">
