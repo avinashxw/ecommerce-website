@@ -26,13 +26,15 @@
                     </tr>
                 </thead>
                 <tbody>
+                    @foreach
                     <tr>
                         <td></td>
                         <td></td>
                         <td></td>
                         <td class="process"></td>
-                        <td>/td>
+                        <td></td>
                     </tr>
+                    @endforeach
                 </tbody>
             </table>
         </div>
